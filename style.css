@@ -1,0 +1,29 @@
+
+    /* text-decoration: line-through; */
+
+    /* Bu komutla birlikte text dekorasyonunu none:hiçbir şey yaparız. */
+    
+   /* Burada :hover etiketiyle birlikte, etiketin üstüne mause'la üstüne geldiğimizde yazının rengi,tipi vs.'sini değiştirmek için kullanırız.
+   örn: bknz. hover:üstüne gelmek ve bağlantı vurgusu için kullanılır. */
+
+   .num1{ background-color: rgb(58, 8, 8); color: rgb(185, 223, 248);}
+
+   .num1:hover{background: rgb(255, 0, 0); color: azure;}
+
+   .num2:hover{background-color: rgb(255,0,0); color: azure;}
+
+   .num3:hover{background-color: rgb(58, 4, 255); color: azure;}
+
+   .num4:hover{background-color: rgb(58, 4, 255); color: azure;}
+   
+   
+ 
+
+   
+ 
+   
+ 
+    
+ 
+ 
+ 
